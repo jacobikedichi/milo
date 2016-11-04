@@ -15,7 +15,7 @@ Note that 'sample' is an optional argument and is not required to be passed in. 
 
 #####Sample-Output:#####
 ```python
->>> python peak_finder.py -3.184523,37.295864 -2.936312,37.446926 @@sample 100
->>> 5778.47900391
+>>> python peak_finder.py -3.184523,37.295864 -2.936312,37.446926 @@sample 77
+>>> 5798.45849609
 ```
 
