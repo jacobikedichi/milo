@@ -1,8 +1,10 @@
 peak_finder.py:
 
 Uses Google elevation API to calculate the highest elevation between 2 points.  
-For additional help, do: python peak_finder.py --help
-
+For additional help, do: 
+```python
+python peak_finder.py --help
+```
 Usage:
 python peak_finder lat1,lon1 lat2,lon2 [@@ sample number]  
 
@@ -15,7 +17,7 @@ Note that 'sample' is an optional argument and is not required to be passed in. 
 
 #####Sample-Output:#####
 ```python
->>> python peak_finder.py -3.184523,37.295864 -2.936312,37.446926 @@sample 77
->>> 5798.45849609
+python peak_finder.py -3.184523,37.295864 -2.936312,37.446926 @@sample 77
+5798.45849609
 ```
 
